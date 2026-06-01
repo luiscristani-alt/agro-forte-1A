@@ -3,12 +3,14 @@ body {
     background-color: bisque;
 }
 .container img{
-    max-width:200px;
-    max-height: 100px;
+    max-width:100px;
+    max-height: 80px;
     width:auto;
     height: auto;
+    width: 40%;
+    width: 40%;
 }
-
+footer{}
 .h1 {
     color:blue;
 }
